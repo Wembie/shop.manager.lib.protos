@@ -1,1 +1,1 @@
-# shop.manager.lib.protos
+# Shop Manager Lib Protos
